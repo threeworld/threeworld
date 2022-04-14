@@ -15,3 +15,6 @@
  |  _  |  __/ | | (_) \ V  V / (_) | |  | | (_| |
  |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
  ```
+### &#x1f4c8; 全球最大同性交友网站活跃度
+
+[![su18's GitHub stats](https://github-readme-stats.vercel.app/api?username=threeworld&show_icons=true)](https://su18.org)
