@@ -9,7 +9,7 @@
 <img align=right height=115 src='http://n.sinaimg.cn/sinacn/w638h640/20180131/1303-fyrcsrw1209498.jpg'/>
 
 希望自己
-- 保持初心，永远热泪盈眶
+- 保持初心
 ```
   _   _      _ _    __        __         _     _ 
  | | | | ___| | | __\ \      / /__  _ __| | __| |
